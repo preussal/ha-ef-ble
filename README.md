@@ -4,6 +4,17 @@
 [![Validation hassfest](https://github.com/rabits/ha-ef-ble/actions/workflows/validate-hassfest.yaml/badge.svg)](https://github.com/rabits/ha-ef-ble/actions/workflows/validate-hassfest.yaml)
 [![Validation HACS](https://github.com/rabits/ha-ef-ble/actions/workflows/validate-hacs.yaml/badge.svg)](https://github.com/rabits/ha-ef-ble/actions/workflows/validate-hacs.yaml)
 
+
+> **⚠️ Note**  
+> This fork is primarily intended for personal experimentation and testing. It includes
+  the latest features, but **may not be fully stable** on devices other than **Stream AC Pro**.  
+>  
+> All changes will eventually be merged into the [main repository](https://github.com/rabits/ha-ef-ble).
+  If you're not actively testing or developing new features, it's recommended to use the
+  main repo instead.
+---
+
+
 Unofficial EcoFlow BLE devices Home Assistant integration will allow you to communicate with a
 number of EcoFlow devices through bluetooth and monitor their status / control parameters.
 
